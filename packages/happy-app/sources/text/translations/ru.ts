@@ -236,6 +236,7 @@ export const ru: TranslationStructure = {
     newSession: {
         title: 'Начать новую сессию',
         machineOffline: 'Машина недоступна',
+        switchMachinesHint: '• Переключите машину, нажав на неё выше',
     },
 
     sessionHistory: {
@@ -545,6 +546,7 @@ export const ru: TranslationStructure = {
         file: 'Файл',
         fileEmpty: 'Файл пустой',
         noChanges: 'Нет изменений для отображения',
+        deleted: 'Удалён',
     },
 
     settingsVoice: {

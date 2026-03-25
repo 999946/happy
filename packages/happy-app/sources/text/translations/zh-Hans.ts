@@ -256,6 +256,7 @@ export const zhHans: TranslationStructure = {
     newSession: {
         title: '开始新会话',
         machineOffline: '设备离线',
+        switchMachinesHint: '• 点击上方的设备来切换设备',
     },
 
     sessionHistory: {
@@ -537,6 +538,7 @@ export const zhHans: TranslationStructure = {
         file: '文件',
         fileEmpty: '文件为空',
         noChanges: '没有要显示的更改',
+        deleted: '已删除',
     },
 
     settingsVoice: {

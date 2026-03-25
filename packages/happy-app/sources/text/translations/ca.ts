@@ -255,6 +255,7 @@ export const ca: TranslationStructure = {
     newSession: {
         title: 'Iniciar nova sessió',
         machineOffline: 'La màquina està fora de línia',
+        switchMachinesHint: '• Canvia de màquina fent clic a la màquina de dalt',
     },
 
     sessionHistory: {
@@ -536,6 +537,7 @@ export const ca: TranslationStructure = {
         file: 'Fitxer',
         fileEmpty: 'El fitxer està buit',
         noChanges: 'No hi ha canvis a mostrar',
+        deleted: 'Eliminat',
     },
 
     settingsVoice: {

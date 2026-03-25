@@ -269,6 +269,7 @@ export const en: TranslationStructure = {
     newSession: {
         title: 'Start New Session',
         machineOffline: 'Machine is offline',
+        switchMachinesHint: '• Switch machines by clicking on the machine above',
     },
 
     sessionHistory: {
@@ -550,6 +551,7 @@ export const en: TranslationStructure = {
         file: 'File',
         fileEmpty: 'File is empty',
         noChanges: 'No changes to display',
+        deleted: 'Deleted',
     },
 
     settingsVoice: {
